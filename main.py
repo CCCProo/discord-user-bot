@@ -5,7 +5,7 @@ import asyncio
 
 async def main():
     client = Client(
-        "OTM3MDI4NTI5MTMwOTk1Nzgz.Gfk4tG.Z6NoJKnibTlb9hKWJUF0PuRkzDoNxwXWyP1n-Q",
+        "token",
         {
             "api": "v9",
             "wsurl": "wss://gateway.discord.gg/?encoding=json&v=9",
